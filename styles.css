@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+}
+
+* {
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  padding: 0;
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 508px;
+  border: 3px solid rgb(52, 28, 169);
+  border-radius: 5px;
+}
+
+.abzac {
+  font-size: 24pt;
+  color: rgb(93, 10, 68);
+}
+
+.knopka {
+  width: 12%;
+  border: 2px solid rgb(34, 255, 0);
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: rgb(51, 0, 255);
+  border-radius: 5px;
+}
+.knopka2 {
+  width: 12%;
+  border: 2px solid rgb(16, 38, 207);
+  color: rgb(124, 4, 24);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: rgb(255, 213, 0);
+  border-radius: 5px;
+}
+.kryg {
+  width: 90%;
+  border-radius: 10%;
+  box-shadow: 0 0 10px rgb(0, 0, 0, 1);
+  padding: 0.6em;
+  background-color: rgb(0, 242, 255);
+  margin-bottom: 1em;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a:hover {
+  color: #98cf2b;
+  text-decoration: underline;
+}
+.stroka {
+  margin: 5% auto;
+}
+h1 {
+  margin: 3% auto;
+}
